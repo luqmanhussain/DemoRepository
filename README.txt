@@ -1,0 +1,1 @@
+this is gitignore file i will ignore it while the pushing in githubssh
